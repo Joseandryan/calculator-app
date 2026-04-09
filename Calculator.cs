@@ -5,3 +5,7 @@ class Calcuator
 			
 		}
 	}
+	staticint penambahan(int a, int b)
+	{
+		return a + b;
+	}
